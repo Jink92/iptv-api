@@ -2,3 +2,4 @@
 # This is a list of subscription sources, with one subscription address per line
 
 https://vip.123pan.cn/1814643527/tv/qwt.m3u
+https://gh.jink.top/https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/main/webview.m3u
