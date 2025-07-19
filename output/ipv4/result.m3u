@@ -1,3 +1,1 @@
 #EXTM3U x-tvg-url="https://gh.jink.top/https://raw.githubusercontent.com/Jink92/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gh.jink.top/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视频道",CCTV-13
-http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
